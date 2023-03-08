@@ -10,9 +10,7 @@ Format is EagleCAD schematic and board layout
 
 ### Description
 
-Get ready for our fastest Metro ever - the NXP iMX RT1011 microcontroller powers this board with a 500 MHz ARM Cortex M7 processor. There's 4 MB of execute-in-place QSPI for firmware + disk storage and 128KB of SRAM in-chip
-
-We're still working on the design but here's some stuff you can look forward to:
+Get ready for our fastest Metro ever - the NXP iMX RT1011 microcontroller powers this board with a 500 MHz ARM Cortex M7 processor. There's 4 MB of execute-in-place QSPI for firmware + disk storage and 128KB of SRAM in-chip.
 
 Features:
 
